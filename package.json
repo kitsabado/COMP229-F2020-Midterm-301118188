@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node server.js"
   },
+
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
     "bootstrap": "^4.5.2",
@@ -52,7 +53,10 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Kristopher Sabado",
   "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/kitsabado/COMP229-F2020-Midterm-301118188"
+  },
   "homepage": ""
 }
